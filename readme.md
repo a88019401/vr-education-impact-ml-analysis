@@ -21,7 +21,6 @@
 - Kaggle: https://www.kaggle.com/datasets/waqi786/impact-of-virtual-reality-on-education
 - 原始檔名（Kaggle 下載後常見）：`Virtual_Reality_in_Education_Impact.csv`
 
-> ⚠️ 建議：**不要直接把資料集 commit 到 GitHub**（避免授權/體積問題），改用 README 引導下載。
 
 ---
 
